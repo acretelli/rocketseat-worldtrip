@@ -1,0 +1,256 @@
+{
+  "continents": [
+    {
+      "id": "america-do-norte",      
+      "name": "América do norte",
+      "image": "https://images.unsplash.com/photo-1580755704223-cb95b31e444c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGV1YXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá.",
+      "headline": "O continente mais rico.",
+      "countries": 3,
+      "languages": 6,
+      "cities100": 8,
+      "cities": [
+        {
+          "country": "Estados Unidos",
+          "capital": "Nova York",
+          "flag": "/img/reino-unido.jpg",
+          "image": "https://images.unsplash.com/photo-1583161443185-0a55235f00d4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZXVhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Estados Unidos",
+          "capital": "Miami",
+          "flag": "/img/franca.jpg",
+          "image": "https://images.unsplash.com/photo-1514214246283-d427a95c5d2f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWlhbWl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Estados Unidos",
+          "capital": "Los Angeles",
+          "flag": "/img/italia.jpg",
+          "image": "https://images.unsplash.com/photo-1429554429301-1c7d5ae2d42e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bG9zJTIwYW5nZWxlc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Estados Unidos",
+          "capital": "Las Vegas",
+          "flag": "/img/republica-tcheca.jpg",
+          "image": "https://images.unsplash.com/photo-1470076892663-af684e5e15af?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGFzJTIwdmVnYXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Canadá",
+          "capital": "Toronto",
+          "flag": "/img/holanda.jpg",
+          "image": "https://images.unsplash.com/photo-1517935706615-2717063c2225?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dG9yb250b3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "México",
+          "capital": "Cancun",
+          "flag": "/img/reino-unido.jpg",
+          "image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuY3VufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Canadá",
+          "capital": "Vancouver",
+          "flag": "/img/holanda.jpg",
+          "image": "https://images.unsplash.com/photo-1559511260-66a654ae982a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmFuY291dmVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Estados Unidos",
+          "capital": "São Francisco",
+          "flag": "/img/holanda.jpg",
+          "image": "https://images.unsplash.com/photo-1521747116042-5a810fda9664?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuJTIwZnJhbmNpc2NvfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        }
+      ]
+    },
+    {
+      "id": "america-do-sul",      
+      "name": "America do Sul",
+      "image": "https://images.unsplash.com/photo-1609883363123-51a82cf8fdef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8c291dGglMjBhbWVyaWNhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "A América do Sul é um continente[2][3] que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial. Une-se à América Central a norte pelo istmo do Panamá e se separa da Antártida ao sul pelo estreito de Drake.",
+      "headline": "O continente mais divertido.",
+      "countries": 12,
+      "languages": 9,
+      "cities100": 4,
+      "cities": [
+        {
+          "country": "República Dominicana",
+          "capital": "Punta Cana",
+          "flag": "/img/franca.jpg",
+          "image": "https://images.unsplash.com/photo-1546708973-b339540b5162?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHVudGElMjBjYW5hfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Argentina",
+          "capital": "Buenos Aires",
+          "flag": "/img/italia.jpg",
+          "image": "https://images.unsplash.com/photo-1495317823589-e67efe1524b0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YnVlbm9zJTIwYWlyZXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Chile",
+          "capital": "Santiago",
+          "flag": "/img/republica-tcheca.jpg",
+          "image": "https://images.unsplash.com/photo-1566079463188-97d2f1352582?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2FudGlhZ298ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Brasil",
+          "capital": "Rio de Janeiro",
+          "flag": "/img/holanda.jpg",
+          "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bG9uZG9ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        }
+      ]
+    },
+    {
+      "id": "asia",      
+      "name": "Ásia",
+      "image": "https://images.unsplash.com/photo-1535139262971-c51845709a48?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXNpYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering. O ponto extremo setentrional do continente está localizado no oceano Glacial Ártico.",
+      "headline": "O continente mais populoso.",
+      "countries": 50,
+      "languages": 60,
+      "cities100": 30,
+      "cities": [
+        {
+          "country": "China",
+          "capital": "Hong Kong",
+          "flag": "/img/reino-unido.jpg",
+          "image": "https://images.unsplash.com/photo-1518599807935-37015b9cefcb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aG9uZyUyMGtvbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Tailândia",
+          "capital": "Bangkok",
+          "flag": "/img/franca.jpg",
+          "image": "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFuZ2tva3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Singapura",
+          "capital": "Singapura",
+          "flag": "/img/italia.jpg",
+          "image": "https://images.unsplash.com/photo-1581769157364-bf5e8d9d3dd4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2luZ2FwdXJhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Macau",
+          "capital": "Macau",
+          "flag": "/img/republica-tcheca.jpg",
+          "image": "https://images.unsplash.com/photo-1565012491197-23098e076715?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFjYXV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Emirados Árabes",
+          "capital": "Dubai",
+          "flag": "/img/holanda.jpg",
+          "image": "https://images.unsplash.com/flagged/photo-1559717865-a99cac1c95d8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZHViYWl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Malásia",
+          "capital": "Kuala Lumpur",
+          "flag": "/img/holanda.jpg",
+          "image": "https://images.unsplash.com/photo-1532745609869-16df0d287f3b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8a3VhbGElMjBsdW1wdXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "China",
+          "capital": "Shezhen",
+          "flag": "/img/holanda.jpg",
+          "image": "https://images.unsplash.com/photo-1543097692-fa13c6cd8595?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpbmF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Tailândia",
+          "capital": "Phuket",
+          "flag": "/img/holanda.jpg",
+          "image": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGh1a2V0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Turquia",
+          "capital": "Istambul",
+          "flag": "/img/holanda.jpg",
+          "image": "https://images.unsplash.com/photo-1609518674662-ff821b925590?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aXN0YW1idWx8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        }
+      ]
+    },
+    {
+      "id": "africa",      
+      "name": "África",
+      "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWZyaWNhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas (estimativa para 2005), representando cerca de um sétimo da população mundial, e 54 países independentes. Tem se transformado na ultima década em uma continente cada vez mais católico.",
+      "headline": "O continente mais extenso.",
+      "countries": 54,
+      "languages": 3000,
+      "cities100": 2,
+      "cities": [
+        {
+          "country": "Marrocos",
+          "capital": "Marraquexe",
+          "flag": "/img/reino-unido.jpg",
+          "image": "https://images.unsplash.com/photo-1592172578991-51bac865e437?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFycm9jb3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Egito",
+          "capital": "Cairo",
+          "flag": "/img/reino-unido.jpg",
+          "image": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2Fpcm98ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+        }
+      ]
+    },
+    {
+      "id": "europa",      
+      "name": "Europa",
+      "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bG9uZG9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+      "headline": "O continente mais antigo.",
+      "countries": 50,
+      "languages": 60,
+      "cities100": 24,
+      "cities": [
+        {
+          "country": "Reino Unido",
+          "capital": "Londres",
+          "flag": "/img/reino-unido.jpg",
+          "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bG9uZG9ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "França",
+          "capital": "Paris",
+          "flag": "/img/franca.jpg",
+          "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFyaXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Itália",
+          "capital": "Roma",
+          "flag": "/img/italia.jpg",
+          "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cm9tZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "República Tcheca",
+          "capital": "Praga",
+          "flag": "/img/republica-tcheca.jpg",
+          "image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJhZ3VlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Holanda",
+          "capital": "Amsterdã",
+          "flag": "/img/holanda.jpg",
+          "image": "https://images.unsplash.com/photo-1613240814112-f3c4825aacde?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YW1zdGVyZGFufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        }
+      ]
+    },
+    {
+      "id": "oceania",      
+      "name": "Oceania",
+      "image": "https://images.unsplash.com/photo-1589330273594-fade1ee91647?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8b2NlYW5pYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes.",
+      "headline": "O continente mais longe.",
+      "countries": 16,
+      "languages": 18,
+      "cities100": 2,
+      "cities": [
+        {
+          "country": "Austrália",
+          "capital": "Oceania",
+          "flag": "/img/reino-unido.jpg",
+          "image": "https://images.unsplash.com/photo-1444426724550-c7bfccd051ee?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8c2lkbmV5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "country": "Nova Zelândia",
+          "capital": "Auckland",
+          "flag": "/img/reino-unido.jpg",
+          "image": "https://images.unsplash.com/photo-1600208669687-f19af3638cb9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXVja2xhbmR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        }
+      ]
+    }
+  ]
+}
